@@ -1,0 +1,1 @@
+conda install -c conda-forge dlib=19.24.6
